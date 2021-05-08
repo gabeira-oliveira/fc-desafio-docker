@@ -9,7 +9,7 @@
 
 Gerar imagem GO que retorne para usuário "FullCycle Rocks". 
     - Precisa ter no máximo 2MB.
-<p><strong>DockerHub:</strong> docker push gbofullcycle/go:v1</p>
+<p><a href="https://hub.docker.com/repository/docker/gbofullcycle/go"><strong>DockerHub:</strong></a> docker push gbofullcycle/go:v1</p>
 
 <strong>OBS:</strong> os arquivos do desafio se encontram na pasta "golang"
 
