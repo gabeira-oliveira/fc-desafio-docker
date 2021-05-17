@@ -20,5 +20,5 @@ Acessar o Nginx e o mesmo vai acessar aplicação Node.js e aplicação irá ins
     <p>_<a href="https://hub.docker.com/r/gbofullcycle/node-desafio-fc"><strong>- Imagem Node</strong></a>_</p>
     <p>_<a href="https://hub.docker.com/r/gbofullcycle/mysql-desafio-fc"><strong>- Imagem MySQL</strong></a>_</p>
 
-Para executar o segundo desafio, basta realizar clone do repositório e na raiz da pasta executar: <strong>_docker-compose up -d_</strong>
+Para executar o segundo desafio, basta realizar clone do repositório e na raiz da pasta executar: <strong>_docker-compose up -d --build_</strong>
 
