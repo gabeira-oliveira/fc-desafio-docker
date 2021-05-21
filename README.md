@@ -13,7 +13,7 @@ Gerar imagem GO que retorne para usuário "FullCycle Rocks".
 
 <strong>OBS:</strong> os arquivos do desafio se encontram na pasta "golang"
 
-<h3><strong><span style="color:green">Desafio nº 2:</span></strong></h3>
+<h3><strong><span style="color:green">Desafio nº 2:</span></strong> </h3>
 
 Acessar o Nginx e o mesmo vai acessar aplicação Node.js e aplicação irá inserir no banco MySQL e para usuário, é preciso mostrar na tela as informações do banco.
     <p>_<a href="https://hub.docker.com/r/gbofullcycle/nginx-desafio-fc"><strong>- Imagem Nginx</strong></a>_</p>
