@@ -1,0 +1,4 @@
+*.js @gabeira-oliveira
+.github/ @gabeira-oliveira
+Dockerfile @gabeira-oliveira
+*.yaml @gabeira-oliveira
